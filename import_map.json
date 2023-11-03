@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/estilo/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
